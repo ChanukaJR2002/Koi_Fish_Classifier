@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🐟 CJ Koi Fish Classifier
 
 A deep-learning powered web app that identifies **koi fish varieties** from an uploaded image. The model is built on **EfficientNetB0** (transfer learning) and served through an interactive **Streamlit** interface.
@@ -83,3 +84,7 @@ jupyter notebook KoiFishClassifier.ipynb
 ## 🙏 Acknowledgements
 
 Built using transfer learning on EfficientNet, with a custom-curated koi fish image dataset spanning 17 traditional varieties.
+=======
+# Koi_Fish_Classifier
+Identify koi fish varieties from photos using deep learning (EfficientNet) and an interactive Streamlit UI.
+>>>>>>> e2c9c8271046c59a9a5846a418911cb114d53312
