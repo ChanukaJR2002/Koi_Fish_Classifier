@@ -95,7 +95,7 @@ Built using transfer learning on EfficientNet, with a custom-curated koi fish im
 ## Author Details
 ---------------
 ## Name - Chanuka Rajapaksa
-## GitHub - [@ChanukaJR2002](https://github.com/)
+## GitHub - https://github.com/ChanukaJR2002
 ## Linkedin - https://www.linkedin.com/in/chanuka-rajapaksa-14b9533a1/
 
 
